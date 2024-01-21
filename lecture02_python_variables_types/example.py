@@ -1,0 +1,1 @@
+print("from a txt file", 1234)
